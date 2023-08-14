@@ -1,0 +1,4 @@
+#+TITLE: Recipe website.
+#+AUTHOR: Bilel Hamitouche.
+
+* This is a simple recipe website created using HTML and some simple CSS. This project is a part of The Odin Project.

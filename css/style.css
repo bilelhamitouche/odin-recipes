@@ -1,0 +1,27 @@
+body {
+    font-family: Helvetica;
+    background-color: #282a36;
+    color: #f8f8f2;
+    line-height: 1.5em;
+}
+
+img {
+    display: block;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+li::parent a {
+    list-style-type: none;
+}
+
+a {
+    color: #bd93f9;
+    padding: 0.3em;
+}
+
+a:visited {
+    color: #ff79c6;
+}
